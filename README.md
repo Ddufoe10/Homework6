@@ -1,2 +1,2 @@
 # Homework6
-This Homework 6 for CS701 
+This is Homework 6 for CS701 
